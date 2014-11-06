@@ -7,5 +7,6 @@ Go 官方会不断的发布一些关于 Go 最新动向或设计思想方面的�
 1. [Go 1.4 Subrepo Renaming](http://golang.org/s/go14subrepo)
 2. [Go 1.4 Custom Import Path Checking](http://golang.org/s/go14customimport)
 3. [Go Execution Tracer](https://docs.google.com/document/d/1FP5apqzBgr7ahCCgFO-yoVhk4YZrNIDNf9RybngBc14/pub)
+4. [Go Execution Modes](https://docs.google.com/document/d/1nr-TQHw_er6GOQRsF6T43GGhFDelrAP0NqSS_00RgZQ/edit#heading=h.fwmrrio0df0i)
 
 

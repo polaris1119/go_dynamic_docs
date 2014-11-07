@@ -11,4 +11,7 @@ Go 官方会不断的发布一些关于 Go 最新动向或设计思想方面的�
 5. [NUMA-aware scheduler for Go](https://docs.google.com/document/d/1d3iI2QWURgDIsSR6G2275vMeQ_X7w-qxM2Vp7iGwwuM/pub)
 6. [Go 1.4+ Garbage Collection (GC) Plan and Roadmap](http://golang.org/s/go14gc)
 7. [Go(1.4) generate: A Proposal](http://golang.org/s/go1.4-generate)
+8. [Go 1.4 “Internal” Packages](http://golang.org/s/go14internal)
+9. [Go 1.4 src/pkg → src](http://golang.org/s/go14nopkg)
+10. [The syscall package](http://golang.org/s/go1.4-syscall)
 

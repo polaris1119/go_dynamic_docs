@@ -16,4 +16,4 @@ Go 官方会不断的发布一些关于 Go 最新动向或设计思想方面的�
 10. [The syscall package](http://golang.org/s/go1.4-syscall)
 11. [Go 1.4 android support](http://golang.org/s/go14android)
 12. [Go 1.4 contigstacks](https://golang.org/s/contigstacks)
-
+13. [Go 1.5 Bootstrap Plan](http://golang.org/s/go15bootstrap)
